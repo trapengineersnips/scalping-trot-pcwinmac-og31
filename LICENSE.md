@@ -1,4 +1,4 @@
-# 
+# Premium scalping trading bot plugins for Mac OS | Custom scalping trading bot plugins for PC Windows. Featuring mean reversion strategy and limit order execution — optimized for maximum performance on every platform.
 
 
 
